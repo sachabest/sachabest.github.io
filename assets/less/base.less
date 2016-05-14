@@ -104,7 +104,7 @@ iframe {
 /* ======= Header ======= */
 .header {
     padding: 30px 0;
-    background: @smoky-white;
+    background: darken(@background, 20%);
     border-top: 10px solid @color;
     .btn {
         margin-top: 60px;
@@ -131,7 +131,7 @@ iframe {
         }
         .social {
             a {
-                background: lighten(@color, 20%);
+                background: lighten(@background, 20%);
                 width: 36px;
                 height: 36px;
                 display: inline-block;
@@ -159,7 +159,7 @@ iframe {
     margin-bottom: 30px;
     
     .section-inner {
-        background: #fff;
+        background: @section-inner;
         padding: 30px;
     }
     .heading {
@@ -538,7 +538,7 @@ iframe {
 /* ======= Footer ======= */
 
 .footer {
-    background: darken(@color, 30%);
+    background: darken(@background, 30%);
     color: #fff;  
     padding: 10px 0;  
     
@@ -555,4 +555,8 @@ iframe {
     .fa-heart {
         color: @heart;
     }
+}
+
+.github-graph {
+    background: @smoky-white;
 }
