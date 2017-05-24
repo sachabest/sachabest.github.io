@@ -1,0 +1,78 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site title
+title: "Sacha Best"
+
+# Site logo
+logo:
+
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "Sacha Best - Portflio and Blog"
+
+# Tagline below the site title
+tagline: "Software Entrepreneur / XR Enthusiast"
+
+# For github pages
+repository: sachabest/sachabest.github.io
+
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl:
+
+sass:
+  sass_dir: _sass
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "https://sachabest.com"
+
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /
+- text: Blog
+  url: /blog/
+- text: Archives
+  url: /tags/
+
+# The shortname for your Disqus site to enable comments.
+disqus: sachabest
+
+# Author information - author info at the bottom of the post
+author_name: "Sacha Best"
+author_bio: "I'm a recent grad of the University of Pennsylvania in Computer Science who is passionate about virtual/augmented reality and teaching. "
+author_url: "https://sachabest.com"
+author_location: "New York, NY"
+author_image: headshot.png
+
+# Footer ad banner
+# banner_url: "https://justgoodthemes.com/"
+# banner_image: banner.jpg
+
+# Footer newsletter widget - add your form action url for MailChimp signup form here
+# mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+
+# Social links in the site footer
+twitter_username: "username"
+facebook_username: "sachabest"
+# googleplus_username: "+username"
+github_username: "sachabest"
+# codepen_username: "username"
+# dribbble_username: "username"
+# medium_username: "@username"
+# instagram_username: "username"
+# pinterest_username: "username"
+linkedin_username: "sachabest"
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: '/blog/page:num/'
+gems: [jekyll-paginate]
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+    auto_ids: false
