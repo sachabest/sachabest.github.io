@@ -12,6 +12,8 @@ About two years ago, I tried a demo on the Oculus DK1 virtual reality headset. N
 
 Fast-forward to fall 2016 and the beginning of my senior year at Penn. I was faced with a trade-off endemic to many other engineering students: I could either work on a VR passion project outside of class, or continue working as a teaching assistant for various classes in which I’d already invested years of work. This was a hard decision; graduating in May meant that the opportunity to teach and interact with Penn’s engaged students would soon disappear, but likewise would the resources Penn offers to student entrepreneurs.
 
+<!--more-->
+
 I brought this conundrum to Dr. Swapneel Sheth, a lecturer in the Department of Computer and Information Science. He is a close mentor for whom I’d served as a TA several times, and it turned out that he oversaw the operation of the CIS “19X” half-credit courses. These are student-taught classes in which participants learn practical implementations of CS concepts through various languages and frameworks.
 
 Dr. Sheth recommended that I explore teaching a similar class on VR, a concept that intrinsically combines fundamentals from a wide range of CS-related disciplines (computer graphics, human-computer interaction, computer vision, etc.), but at the same time has open-source frameworks available to create content without rewriting the millions of lines of underlying code necessary to present such experiences.

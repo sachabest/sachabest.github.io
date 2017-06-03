@@ -10,6 +10,8 @@ Studying computer science in college is and was a fantastic decision - regardles
 
 Sure, going through [CLRS](https://mitpress.mit.edu/books/introduction-algorithms) is great for both your own understanding of theory and for interview prep, but is that the best usage of your time in school? Absolutely not, I'd argue. 
 
+<!--more-->
+
 >The professors you have access to while in school have enormous amounts of wisdom to pass on - you, however, have to give them reason to share it.
 
 With the commoditization of education around the computer science field (think hacker academies, coursera, etc.), what you learn in the classroom at a formal university is becoming less and less relevant. If you can learn everything about [Voronoi Decompositions](http://paperjs.org/examples/voronoi/) and their application to [path planning](http://www.cs.columbia.edu/~pblaer/projects/path_planner/) for autonomous robots online, but you choose to take a computer vision class in school, what should you try to get out of it?
