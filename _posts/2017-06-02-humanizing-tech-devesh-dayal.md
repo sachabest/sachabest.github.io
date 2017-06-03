@@ -18,7 +18,7 @@ In lieu of the recorded video, we worked on a transcript-style text version that
 
 * Devesh's inspiration to hack and build comes primarily from his desire to dive into something completely blind, and see how far he can get in learning it on the fly. Quite an admirable motivation, in my opinion.
 * In his own words, Devesh attributed "100% of his passion for teaching" to the desire to impart "even 10% of the excitement I've felt in building things myself" in the hopes that students will share the same joy.
-* In his (and my) opinion, formal education in computer science is augmented by, not replaced by additional online and ad-hoc learning materials: learning how to build something is one thing, understanding why it works is another. 
+* In his (and my) opinion, formal education in computer science is augmented by, not replaced by, additional online and ad-hoc learning materials: learning how to build something is one thing, understanding why it works is another. 
 
 ### Full Transcript
 
@@ -62,4 +62,4 @@ DD: Hackathons have been somewhat of a blessing in disguise for me. While there 
 
 >What I’ve found is that a desire to actually leap into a topic headfirst and come out with an experience worth re-telling is more rewarding than anything
 
-The same inspiration is one of the many reasons why I love teaching. From workshops and lectures I’ve taught to one on one discussions with students, I always try to push people to realize what it is they’re excited about, and then help them get there. In CIS 197, students submit project proposals a month before the end of the semester in which they’re encouraged to be ambitious - to try new things and make something that has positive impact in either their lives or the lives of people around them. I’m constantly amazed by student ideas and how they perform once they realize it's possible.
+The same inspiration is one of the many reasons why I love teaching. From workshops and lectures I’ve taught to one on one discussions with students, I always try to push people to realize what it is they’re excited about, and then help them get there. In CIS 197, students submit project proposals a month before the end of the semester in which they’re encouraged to be ambitious - to try new things and make something that has positive impact in either their lives or the lives of people around them. I’m constantly amazed by student ideas and how they perform once they realize it's possible. Teaching is very much a learning experience for me and working with all the students I've taught in the last year has really been the most rewarding and continually exciting experience of my time at Penn!
