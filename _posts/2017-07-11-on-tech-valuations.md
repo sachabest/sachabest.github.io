@@ -48,7 +48,7 @@ I found this chart to be much more informative - and likely closer to what real 
 
 Given that hypothesis and the previous chart, Facebook revenue per monthly active user was $7.67, and Snap's was $2.55 (note that this is revenue per MAU, not average revenue per user - Snap [reported that as $0.90 in Q1 2017](https://www.sec.gov/Archives/edgar/data/1564408/000156459017010357/snap-10q_20170331.htm#ITEM_2_MANAGEMENTS_DISCUSSION_ANALYSIS_F)). Even more important, though, is that Facebook actually **made money** before their IPO (profit of $974m) and Snap STILL lost $515m even given their revenue per user.
 
-My somewhat naive conclusion on all of these ramblings is indeed quite simple: if your product is your user, and you need to make money, then your goals should be to get more users, and make more money from each one without spending too more to do so. Why don't we value tech companies on those two factors? And if we do, how did we get to where we are now?
+My somewhat naive conclusion on all of these ramblings is indeed quite simple: if your product is your user, and you need to make money, then your goals should be to get more users, and make more money from each one without spending too much more to do so. Why don't we value tech companies on those two factors? And if we do, how did we get to where we are now?
 
 More importantly, why isn't rampaging over-valuation stopping?
 
