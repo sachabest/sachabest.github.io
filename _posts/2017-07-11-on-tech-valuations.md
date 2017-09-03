@@ -17,9 +17,7 @@ My apologies for being away for the past month. I was moving from LA to NY and h
 
 ### Full Text
 
-Let me predicate the rest of this post with the simple 
-
-t that I am not an economist, nor an economics major, nor am I extremely knowledgeable about corporate finance. 
+Let me predicate the rest of this post with the simple fact that I am not an economist, nor an economics major, nor am I extremely knowledgeable about corporate finance. 
 
 [Morgan Stanley's downgrade](http://www.cnbc.com/2017/07/11/snap-underwriter-morgan-stanley-downgrades-the-stock.html) of Snap's stock today is what got me thinking about corporate valuations of tech companies. if you haven't checked the charts for Snap specifically recently, the stock went below IPO for the first time yesterday, and is trading around $15.60 as I am writing this now. While I don't claim to fully understand why this happened, some brief research plus conversations with friends who are bankers and underwriters has yielded the following: Snap hasn't innovated fast enough on its advertising revenue model, has suffered from [slow user growth](https://techcrunch.com/2017/05/10/snapchat-user-count/), and (this is slightly more controversial) used its IPO earlier this year to keep the company alive financially.
 
