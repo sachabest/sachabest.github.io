@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     {% if page.featured_image %}
-    <meta property="og:image" content="{{ "/images/" | append: page.featured_image | prepend: site.baseurl }}" />
+    <meta property="og:image" content="{{ site.url }}{{ "/images/" | append: page.featured_image }}" />
     {% endif %}
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
