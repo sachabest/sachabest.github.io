@@ -39,13 +39,13 @@ Let's chat a little bit about that three day span I just glossed over.
 
 >Making a Hackintosh work is a bit like putting together a 2,000 piece puzzle that completely falls apart if you incorrectly put in one small tile.
 
-Think of each major function your computer provides as a subsection of pieces - you have audio, networking, CPU, GPU, Bluetooth, WiFi, USB, SATA (storage), and more. But there's more - since we are basically impersonating a Mac to Apple (aka Big Brother), many software features we take for granted also need to be addressed - iMessage, FaceTime, Handoff, iCloud, etc.
+Think of each major function your computer provides as a subsection of pieces - you have audio, networking, CPU, GPU, Bluetooth, WiFi, USB, SATA (storage), and more. But that's not it - since we are basically impersonating a Mac to Apple (aka Big Brother), many software features we take for granted also need to be addressed - iMessage, FaceTime, Handoff, iCloud, etc.
 
 {% include image_full.html imageurl="/images/posts/clover.png" title="Impersonating a Mac via Clover Configurator." caption="Impersonating a Mac via Clover Configurator." %}
 
-I was able to get Mac "running" quite easily - the tooling provided on tonymac is very good for the initial setup of a computer, but getting things to run at full speed was much harder. I wont repeat the entire build process here, but you can find my installation guide [here](https://www.tonymacx86.com/threads/success-10-12-6-p9x79-deluxe-i7-3930k-w-turbo.230926/) with specific links to extra steps needed to get Audio, iMessage, and full CPU speed working. 
+I was able to get Mac "running" quite easily - the tooling provided on tonymac is very good for the initial setup of a computer, but getting things to run at full speed was much harder. I won't repeat the entire build process here, but you can find my installation guide [here](https://www.tonymacx86.com/threads/success-10-12-6-p9x79-deluxe-i7-3930k-w-turbo.230926/) with specific links to extra steps needed to get Audio, iMessage, and full CPU speed working. 
 
-When sharing this arduous procedure with friends, the most common reaction I got was "I don't understand why people spend so much time on these things". To be completely honest, I don't have a great answers for that. There are many (better) things I could have done with a holiday weekend, but something about getting everything to the working state I have now is insanely rewarding.
+When sharing this arduous procedure with friends, the most common reaction I got was "I don't understand why people spend so much time on these things". To be completely honest, I don't have a great answer for that. There are many (better) things I could have done with a holiday weekend, but something about getting everything to the working state I have now is insanely rewarding.
 
 >There is great benefit in working at a seemingly impossible problem, regardless of impact, and coming through with a viable solution. 
 
